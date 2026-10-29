@@ -1,0 +1,15 @@
+# Environment files (API Keys)
+.env
+.env.local
+*.env
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / Build artifacts (for future deployment)
+node_modules/
+dist/
+build/
